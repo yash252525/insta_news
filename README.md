@@ -1,6 +1,3 @@
-Here’s a complete `README.md` file for your Flask-based news app project. It includes sections for project description, setup, usage, features, and screenshots placeholder. You can copy-paste this file or I can export it as a downloadable Markdown file if you prefer.
-
----
 
 ````markdown
 # 📰 Insta-News – Flask-Based News Aggregator
