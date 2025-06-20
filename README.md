@@ -76,20 +76,6 @@ Then open [http://127.0.0.1:5000](http://127.0.0.1:5000) in your browser.
 └── requirements.txt
 ```
 
----
-
-## 🖼️ Screenshots
-
-_Add screenshots of the UI here if desired_
-
----
-
-## 📃 License
-
-This project is licensed under the MIT License.
-
----
-
 ## 🙋‍♂️ Acknowledgments
 
 - [NewsAPI.org](https://newsapi.org/)
